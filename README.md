@@ -2,7 +2,6 @@
 
 This repository implements a simple image downloader from flickr.
 
-I build to download images to train computer vision models.
 
 ## Demo
 <img src="demo.gif">
@@ -32,7 +31,7 @@ uvicorn server:app --host 0.0.0.0 --port 8000 &
 
 
 5. Open your browser
-http://localhost
+http://localhost:8000
 
 
 ## References
