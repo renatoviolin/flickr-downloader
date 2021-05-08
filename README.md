@@ -5,18 +5,18 @@ This repository implements a simple image downloader from flickr.
 I build to download images to train computer vision models.
 
 ## Demo
-<img src="img/img1.gif">
+<img src="demo.gif">
 
 
 ## Configurations
-You need a flickr ID and Secret Code that can be obtained [here](https://www.flickr.com/services/api/misc.api_keys.html). After that, insert those values in the file [config.yaml](config.yaml).
+You need a flickr ID and Secret Code that can be obtained [here](https://www.flickr.com/services/api/misc.api_keys.html). After that, insert those values in the file [config.yaml](web-app/config.yaml).
 
 
 ## Install
 1. Clone this repository
 ```bash
-git clone https://github.com/renatoviolin/xxxxxxxxxxxxxxx.git
-cd xxxxxxxxxxxxx
+git clone https://github.com/renatoviolin/flickr-downloader.git
+cd flickr-downloader
 ```
 
 2. Install packages
